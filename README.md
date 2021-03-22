@@ -1,1 +1,1 @@
-Code used to generate data and networks for our thesis project.
+Code used to generate experiment, data and networks for our thesis project.
