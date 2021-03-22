@@ -1,0 +1,9 @@
+# Define time variable of the experiment
+distraction_time = 5
+time_instructions_training = 5
+instruction_time = 5
+
+from psychopy import parallell
+port = parallel.ParallelPort(address=0x2008)
+
+port.setData()
